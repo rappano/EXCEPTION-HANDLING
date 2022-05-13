@@ -23,3 +23,4 @@ public class AritmethicExcepion {
     }
 }
 
+//punya pano nilai 10
