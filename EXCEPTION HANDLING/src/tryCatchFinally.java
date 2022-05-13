@@ -30,3 +30,7 @@ int DivResult = anInt / zeroInt;
     }
 }
 
+
+
+
+//punya pano zero 5 an 23 
